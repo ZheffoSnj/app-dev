@@ -1,5 +1,5 @@
 # ***The Great Gatsby***
-![alt text](![the great gatsby](https://github.com/ZheffoSnj/app-dev/assets/170708586/d67aac47-ca75-4d08-b29c-e307d3f59295))
+(![the great gatsby](https://github.com/ZheffoSnj/app-dev/assets/170708586/d67aac47-ca75-4d08-b29c-e307d3f59295))
 
 ## *Part 1*
 
