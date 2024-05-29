@@ -1,4 +1,6 @@
 # ***The Great Gatsby***
+![alt text](![download](https://github.com/ZheffoSnj/app-dev/assets/170708586/5dde510f-dcdc-40b8-b442-cc2ff714b9f7)
+)
 ## *Part 1*
 
 - Nick Carraway, a young Midwesterner, arrives in Long Island in the summer of 1922 to pursue a career in the bond business.
